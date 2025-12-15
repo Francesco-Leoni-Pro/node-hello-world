@@ -1,0 +1,12 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Francesco Leoni",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
